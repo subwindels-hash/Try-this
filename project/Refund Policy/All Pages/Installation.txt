@@ -1,0 +1,18 @@
+/public_html/templates/hostx/privacypolicy.tpl
+
+
+/public_html/
+
+Same place where you’ll see:
+
+index.php
+clientarea.php
+terms-of-service.php
+
+👉 So final path should look like:
+
+/public_html/privacy-policy.php
+
+
+
+yourdomain.com/privacy-policy.php
